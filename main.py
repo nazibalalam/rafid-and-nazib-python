@@ -7,3 +7,4 @@ for value in range(100) :
   // you have to put an " : " after range(123)
   // try this editor instead of the terminal
   // type whatever it is you want to type HERE !!!!
+  // hello!!!!!
